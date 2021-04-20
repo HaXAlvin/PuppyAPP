@@ -1,16 +1,15 @@
-# puppy
+# Puppy App
 
-A new Flutter project.
+這是提供給國立成功大學統計學系所使用的調查APP
+主要提供功能是使用APP收集遊蕩犬(流浪狗)的照片及相關數據
+收集的數據包括：GPS位置追蹤、照片、照片時間及位置、調查用相關表單數據
 
-## Getting Started
+此APP目前有在APP Store上架，最後更新日期為：2020/08/26
+- [APP Store](https://apps.apple.com/tw/app/%E9%81%8A%E8%95%A9%E7%8A%AC%E8%AA%BF%E6%9F%A5/id1525990578)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+專案負責人：
+- [薛竣祐](https://github.com/HaXAlvin)
+- [黃子騰](https://github.com/EriaWist)
+- [黃傳霖](https://github.com/PASSahchuan)
